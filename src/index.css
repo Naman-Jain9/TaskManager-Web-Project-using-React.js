@@ -1,0 +1,11 @@
+body{
+  background-color: #e9e9e9;
+  padding: 5px;
+  font-family: "Lato";
+}
+
+.decorate{
+  background-color: darkgoldenrod;
+  color: aliceblue;
+
+}
